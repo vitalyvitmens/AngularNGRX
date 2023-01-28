@@ -1,6 +1,10 @@
 # AngularNGRX
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.5.
+
+### Добавить инфраcтруктуру NGRX в проект:
+ng add @ngrx/store@latest --no-minimal
+ng add @ngrx/store-devtools@latest
+ng add @ngrx/effects@latest --no-minimal
 
 ## Development server
 
